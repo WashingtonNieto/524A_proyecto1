@@ -2,3 +2,16 @@ body{
   background-color: lightsalmon;
   color: blue;
 }
+h2{
+  color:black;
+  width: 80%;
+  margin: auto;
+  display: block;
+}
+h3{
+  color:black;
+  width: 80%;
+  margin: auto;
+  display: block;
+  font-weight: bold !important;
+}
